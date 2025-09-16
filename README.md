@@ -36,6 +36,7 @@ npm run dev
 # Open in browser
 http://localhost:5173
 
+---
 
 ## For E-ink platform
 https://github.com/YuxuanSun123/E-ink
